@@ -1,0 +1,6 @@
+[core]
+    remote = model-versioning-tracking
+['remote "data-versioning-tracking"']
+    url = s3://testing-data-versioning/data/
+['remote "model-versioning-tracking"']
+    url = s3://testing-data-versioning/model/
